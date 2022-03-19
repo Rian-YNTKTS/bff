@@ -6,9 +6,9 @@ $ pkg install python
 
 $ pkg install git
 
-$ pip install cython 
+$ pkg install play-audio
 
-$ pip install play-audio
+$ pip install cython 
 
 $ git clone https://github.com/Rian-YNTKTS/bff
 
