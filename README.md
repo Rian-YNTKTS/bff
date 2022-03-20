@@ -16,4 +16,12 @@ $ cd bff
 
 $ python run.py
 
+# Update
+
+$ cd bff
+
+$ git pull
+
+$ python run.py
+
 
